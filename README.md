@@ -12,4 +12,7 @@ Aplikasi Chatting client server cmd netbeans
 5. ketik perintah javac dicocokan sesuai nama file contoh javac server.java dan javac client.java ketik di kedua tab windows 
 6. ketik perintah Java Server dan Java Clinet di kedua windows
 7. mulai mencoba melakukan chatting dan aplikasi siap digunakan
+#  PROJECT-PACKAGE
+Saya Upload terpisah di https://github.com/alternatuv/package-client-server
+karena ada troubleshooting:(
  
